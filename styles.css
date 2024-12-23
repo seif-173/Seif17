@@ -1,0 +1,29 @@
+
+
+nav ul{
+background-color: sandybrown;
+border-style: solid;
+border-color: bisque;
+border-width: 4px;
+}
+nav ul li{
+list-style-type: none;
+display: inline;
+margin-right: 10px;
+margin-left: 10px;
+color: black;
+
+
+}
+
+nav ul li a 
+{
+
+    text-decoration: none;
+    color: olive;
+}
+table,th,td{border: 1px solid honeydew;
+border-collapse: collapse;
+
+
+}
